@@ -4,6 +4,8 @@ public class AgeException extends Exception {
 	public AgeException(String ex) {
 		super(ex);
 		
+		System.out.println("Nandha ksihore");
+		
 	}
 
 }
